@@ -12,3 +12,8 @@ If you have a message that is already encrypted it will ask you to enter your en
 For option 3:
 
 Using the brute force option will run all 26 shift keys and print them out. You will need to scroll through the list that was printed to find your message. All this option will ask you to do is enter your encrypted message and then will print out a list containing all the possible options.
+
+From the `email-bot` directory:
+```python -m venv pyenv```
+```source pyenv/bin/activate```
+```python3 -m pip install -r requirements.txt```
